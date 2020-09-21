@@ -1,4 +1,4 @@
 hello everyone
 here comes the first change
 here comes the second change in remote
-waiting for third change in local from remote
+here comes the third change in remote
