@@ -2,3 +2,4 @@ hello everyone
 here comes the first change
 here comes the second change in remote
 here comes the third change in remote
+here commes the 4th change in local
